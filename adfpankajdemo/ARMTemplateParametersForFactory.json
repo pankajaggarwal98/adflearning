@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "adfpankajdemo"
+		},
+		"AzureBlobStorage1_connectionString": {
+			"value": ""
 		}
 	}
 }
